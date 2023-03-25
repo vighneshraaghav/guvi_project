@@ -1,0 +1,47 @@
+body{
+  background-color: #000000;
+}
+h1{
+  color: #64e8ff;
+  font-family:'Audiowide';
+  text-align: center;
+  font-size: 60px;
+  padding-top: 3rem;
+}
+h3{
+  color: #000000;
+  font-family: 'Orbitron';
+  font-size: 26;
+  padding-top: 30px;
+}
+h5{
+  color: #000000;
+  font-family: 'Orbitron';
+  font-size: 12px;
+}
+button{
+  color: #e7e7e7;
+  font-family: 'Orbitron';
+  background-color: #060606;
+  border-radius: 12px;
+  border-color: #64e8ff;
+  padding: 20px 40px 20px 40px ;
+}
+.base-m1{
+  margin-right: auto;
+  margin-left: auto;
+  width: 30%;
+  height: 40%;
+  border-radius: 16px;
+  background-color: #7e9ca6;  
+  backdrop-filter: blur(50px);
+  border-color: #64e8ff;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 60px;
+}
+.side{
+  display: inline-block;
+  padding: 1rem;
+  vertical-align:middle;
+}
